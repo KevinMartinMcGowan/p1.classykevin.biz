@@ -33,14 +33,15 @@
 			</div>
 
 			<div id="photo">
-				<img src="sam.jpg" height="320" width="320" />
+				<img src="sam.jpg" height="320" width="320" alt="Sam in the bath"/>
 				<br>
 				<p class="i">Sam the cat.</p>
 			</div>
 
 		
 		</div>
-<!--include jquery & backstretch-->
+		
+		<!--include jquery & backstretch-->
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script type="text/javascript" src="jquery.backstretch.min.js"></script>
 		<script type="text/javascript">
